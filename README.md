@@ -17,6 +17,7 @@ The workflow consists of two main stages:
    * Train an activity recognition model using the extracted pose keypoints.
    * Evaluate the trained model on labeled Endotracheal Suctioning activities.
 
+![Video demo](videos/ES-demo.gif)
 ---
 
 ## Project Structure
